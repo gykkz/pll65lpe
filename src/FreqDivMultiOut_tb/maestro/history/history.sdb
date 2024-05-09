@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="assembler" roOrView="view" runningOrFinished="finished">Interactive.0
+			<timestamp>May 8 22:30:19 2024</timestamp>
+			<uuid>{ea97cc38-e2c3-4c98-875a-024da52bf1cc}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/jling01/65LPE_Workspace/PhaseLockedLoop/FreqDivMultiOut_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults></simresults>
+			<runlog></runlog>
+			<runlogfile></runlogfile>
+			<psfdir></psfdir>
+			<simdir></simdir>
+		</historyentry>
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>May 9 12:25:26 2024</timestamp>
+			<uuid>{4b282bdb-a646-4c37-a7c1-56af617ba419}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/jling01/65LPE_Workspace/PhaseLockedLoop/FreqDivMultiOut_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
+			<runlog>/home/jling01/65LPE_Workspace/PhaseLockedLoop/FreqDivMultiOut_tb/maestro/results/maestro/$AXL_HISTORY_NAME.log</runlog>
+			<runlogfile>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.log</runlogfile>
+			<psfdir>/home/jling01/simulation/PhaseLockedLoop/FreqDivMultiOut_tb/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<simdir>$AXL_PROJECT_DIR/PhaseLockedLoop/FreqDivMultiOut_tb/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
+		</historyentry>
+	</history>
+</setupdb>

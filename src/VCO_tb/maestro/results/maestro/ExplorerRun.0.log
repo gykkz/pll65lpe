@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed May  8 23:02:18 2024 
+Best design point: 1
+Design specs: 
+	ece5404_pll_VCO_tb_1	corner	Nominal - 
+	average(dutyCycle(clip(VT("/OUT") 0.0 2e-07) ?mode "user" ?threshold 0.599918 ?xName "time" ?outputType "plot"))		51.56
+	freq		183M
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 13
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Wed May  8 23:12:17 2024 

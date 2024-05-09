@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<setupdb version="7">history
+	<active>Active Setup</active>
+	<history>History
+		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
+			<timestamp>May 8 22:04:31 2024</timestamp>
+			<uuid>{dfbd4efa-e131-4dad-a839-54118d9c0531}</uuid>
+			<locked>0</locked>
+			<mode>Single Run, Sweeps and Corners</mode>
+			<resultsname>/home/jling01/65LPE_Workspace/PhaseLockedLoop/PFD_tb/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<simresults></simresults>
+			<runlog></runlog>
+			<runlogfile></runlogfile>
+			<psfdir></psfdir>
+			<simdir></simdir>
+		</historyentry>
+	</history>
+</setupdb>

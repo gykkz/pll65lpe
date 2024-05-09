@@ -1,0 +1,15 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed May  8 21:31:31 2024 
+Best design point: 1
+Design specs: 
+	ece5404_pll_PLL_tb_1	corner	FF_1P32V_125C - 
+	ece5404_pll_PLL_tb_1	corner	SS_1P08_M40C - 
+	ece5404_pll_PLL_tb_1	corner	TT_1P2_25C - 
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Thu May  9 11:21:18 2024 

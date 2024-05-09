@@ -1,0 +1,13 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu May  9 12:23:45 2024 
+Best design point: 1
+Design specs: 
+	PhaseLockedLoop_ChargePump_tb_1	corner	Nominal - 
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Thu May  9 12:24:09 2024 
